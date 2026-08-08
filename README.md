@@ -27,4 +27,5 @@ Tenho interesse em aprofundar meus conhecimentos em:
 - Arquitetura de nuvem segura com boas práticas em AWS
 - Processos, controles e gestão de segurança da informação
 
-
+## Projetos em destaque:
+- Laboratório de GRC e Segurança da Informação - Este projeto acadêmico tem como objetivo desenvolver conhecimentos introdutórios sobre Governança, Riscos e Compliance (GRC) aplicados à Segurança da Informação.
